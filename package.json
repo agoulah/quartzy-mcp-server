@@ -1,6 +1,6 @@
 {
   "name": "quartzy-mcp-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Model Context Protocol server for Quartzy Public API - laboratory inventory and order management",
   "main": "dist/index.js",
   "type": "module",
